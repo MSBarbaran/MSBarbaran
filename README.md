@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Banner Github 2 ](https://user-images.githubusercontent.com/95386519/169434878-e424af5d-d349-4f1f-8453-0ad5bff0de29.png)
+![Banner Github 4](https://user-images.githubusercontent.com/95386519/169545433-9fd61cf1-30e6-4d30-b5e6-16f57ee57bff.png)
 
 #### Sobre mí
 
@@ -8,6 +8,7 @@
   <a href="#"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 </p>
 
 #### Lenguajes y tecnologías
