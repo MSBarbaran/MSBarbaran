@@ -5,10 +5,11 @@
 
 #### 
 <p align="center">
+  <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif'  height='100"'>
   <a href="#"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif'  height='100"'>
+  
 </p>
 
 #### Lenguajes y tecnologías
