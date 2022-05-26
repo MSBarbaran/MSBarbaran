@@ -2,15 +2,12 @@
 ![Banner Github 4](https://user-images.githubusercontent.com/95386519/169545433-9fd61cf1-30e6-4d30-b5e6-16f57ee57bff.png)
 
 #### Sobre mí
-<p align="center">
-
-</p>
-
+###### <p text-align="justify">Hola, soy María, Ingeniera Industrial y Desarrolladora Frontend, siempre estoy en búsqueda de cosas nuevas por aprender ✨, si quieres saber más de mí o contactarme estas invitado a pasarte por los siguientes enlaces:</p> 
 #### 
 
 <p align="center">
   <img align='right' src='https://media.giphy.com/media/S8CJHntQpUzLJXuwHi/giphy.gif'  height='30"'>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:maria.sol.barbaran@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <img align='right' src='https://media.giphy.com/media/S8CJHntQpUzLJXuwHi/giphy.gif'  height='30"'>
@@ -29,9 +26,8 @@
 
 #### Estadísticas de GitHub
 
-
 <div align="center">
   <a href="https://github.com/msbarbaran">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msbarbaran&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msbarbaran&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msbarbaran&theme=vision-friendly-dark&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msbarbaran&layout=compact&langs_count=7&theme=vision-friendly-dark"/> 
 </div>
