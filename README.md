@@ -2,7 +2,7 @@
 ![Banner Github 4](https://user-images.githubusercontent.com/95386519/169545433-9fd61cf1-30e6-4d30-b5e6-16f57ee57bff.png)
 
 #### **Sobre mí**
-##### <p text-align="justify">Hola, soy María, Ingeniera Industrial y Desarrolladora Frontend, siempre estoy en búsqueda de cosas nuevas por aprender ✨, si quieres saber más de mí o contactarme estas invitado a pasarte por los siguientes enlaces:</p> 
+><p text-align="justify">Hola, soy María, Ingeniera Industrial y Desarrolladora Frontend, siempre estoy en búsqueda de cosas nuevas por aprender ✨, si quieres saber más de mí o contactarme estas invitado a pasarte por los siguientes enlaces:</p> 
  
 #### 
 <p align="center">
