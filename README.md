@@ -1,16 +1,14 @@
-### **¡Bienvenido a mi perfil de GitHub!**  👋
+### **¡Bienvenido a mi perfil de GitHub!**
 ![Banner Github 4](https://user-images.githubusercontent.com/95386519/169545433-9fd61cf1-30e6-4d30-b5e6-16f57ee57bff.png)
 
 #### **Sobre mí**
-><p text-align="justify">Hola, soy María, Ingeniera Industrial y Desarrolladora Front end, siempre estoy en búsqueda de cosas nuevas por aprender✨, si quieres saber más de mí o contactarme estás invitado a pasarte por los siguientes enlaces:</p> 
+><p text-align="justify">Ingeniera Industrial y Desarrolladora Front end.</p> 
  
 #### 
 <p align="center">
-  <img align='right' src='https://media.giphy.com/media/S8CJHntQpUzLJXuwHi/giphy.gif'  height='30"'>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:maria.sol.barbaran@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align='right' src='https://media.giphy.com/media/S8CJHntQpUzLJXuwHi/giphy.gif'  height='30"'>
 </p>
 
 #### **Lenguajes y tecnologías**
